@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V4.0 - 4BAR Quad ILS](https://github.com/Chauvet-DJ/4BARQUADILS_V2/blob/af9a0c3eba6b5bf052cad002c3427a92a5b58a43/Firmware/V4.0_06-30-24.zip)
+[V3.01 - 4BAR Quad ILS](https://github.com/Chauvet-DJ/4BARQUADILS_V2/blob/a83fdf33a9e7e5b53027b1e016dd4e899742de61/Firmware/V3.01_07-01-24.zip)
 - Changed the D-Fi detection method from voltage detection to software detection
 
 [V3.0 - 4BAR Quad ILS](https://github.com/Chauvet-DJ/4BARQUADILS_V2/blob/6ba3f669d2cff18674a0f0714d8b4999e74fc55f/Firmware/V3.0_06-212-24.zip)
