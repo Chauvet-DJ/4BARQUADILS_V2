@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V3.02 - 4BAR Quad ILS](https://github.com/Chauvet-DJ/4BARQUADILS_V2/blob/ca0e53a75ea42ce3fb71114ce4d256dce7b53692/Firmware/V3.02_08-28-24.zip)
+- Improved sound sensitivity
+
 [V3.01 - 4BAR Quad ILS](https://github.com/Chauvet-DJ/4BARQUADILS_V2/blob/a83fdf33a9e7e5b53027b1e016dd4e899742de61/Firmware/V3.01_07-01-24.zip)
 - Changed the D-Fi detection method from voltage detection to software detection
 
